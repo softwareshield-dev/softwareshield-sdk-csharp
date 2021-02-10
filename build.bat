@@ -1,0 +1,1 @@
+csc /t:library /r:Newtonsoft.Json.dll GS5.cs
